@@ -2,7 +2,7 @@
 
 ## requirements
 - miden client setup
-  here is the [guide](https://github.com/0xchukss/How-to-setup-a-miden-client)
+> #### here is the [guide](https://github.com/0xchukss/How-to-setup-a-miden-client)
 - vsCode
 
 # Step 1 create masm folder in client directory
