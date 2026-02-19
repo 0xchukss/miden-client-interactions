@@ -21,7 +21,6 @@ run,
   mkdir accounts
 </pre>
 
-<img width="1555" height="865" alt="image" src="https://github.com/user-attachments/assets/cc867142-16ba-4cd9-94f3-66b83a380c39" />
 
 ## create counter.masm file
 navigate to accounts in masm folder 
