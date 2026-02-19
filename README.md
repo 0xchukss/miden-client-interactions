@@ -249,7 +249,7 @@ then, start script
   cargo run
 </pre>
 
-<img width="1555" height="865" alt="image" src="https://github.com/user-attachments/assets/821fcce4-3906-40f8-a43b-d9469926208e" />
+<img width="1555" height="865" alt="image" src="https://github.com/user-attachments/assets/925fa62e-6180-491d-ba7f-572f2053cddf" />
 
 this should,
 1. create alice account
